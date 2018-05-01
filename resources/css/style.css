@@ -5,13 +5,13 @@ body {
 }
 
 h1 {
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
   color: white;
   text-align: center;
 }
 
-h3 {
+.cta {
   color: Aquamarine;
   font-size: 16px;
 }
@@ -23,10 +23,16 @@ p {
 
 h2 {
   font-size: 42px;
-  font-weight: 300;
+  font-weight: bold;
+  color: white;
 }
 
 .footnote {
   text-align: right;
   color: gray;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
